@@ -5,6 +5,10 @@ file contains the raw dataset and a preprocessed dataset
 has the csv files which are generated in R script by applying clustering technique
 #### new_proj.Rmd :
 is the main R programming code used for this project
+#### Poster:
+This pdf contains a poster where the project is being described and visualized.
+
+
 # Project_Data-mining-and-Statistics:
 Project on Predicting risk level of Covid19 Patients
 
