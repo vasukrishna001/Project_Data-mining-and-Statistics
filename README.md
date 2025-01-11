@@ -1,4 +1,11 @@
-# Project_Data-mining-and-Statistics
+# Files Attached:
+#### Datasets_covid19.zip : 
+file contains the raw dataset and a preprocessed dataset
+#### Datafiles_afterClustering :
+has the csv files which are generated in R script by applying clustering technique
+#### new_proj.Rmd :
+is the main R programming code used for this project
+# Project_Data-mining-and-Statistics:
 Project on Predicting risk level of Covid19 Patients
 
 ## Overview
