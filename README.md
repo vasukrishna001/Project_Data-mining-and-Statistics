@@ -1,3 +1,10 @@
+
+# Project_Data-mining-and-Statistics:
+Project on Predicting risk level of Covid19 Patients
+
+## Overview
+This project focuses on predicting the severity of illness in COVID-19 patients using machine learning models. By analyzing patient data, including symptoms, medical history, and demographic details, the goal is to assist healthcare providers in better utilizing resources and improving patient care outcomes.
+
 # Files Attached:
 #### Datasets_covid19.zip : 
 file contains the raw dataset and a preprocessed dataset
@@ -7,13 +14,6 @@ has the csv files which are generated in R script by applying clustering techniq
 is the main R programming code used for this project
 #### Poster:
 This pdf contains a poster where the project is being described and visualized.
-
-
-# Project_Data-mining-and-Statistics:
-Project on Predicting risk level of Covid19 Patients
-
-## Overview
-This project focuses on predicting the severity of illness in COVID-19 patients using machine learning models. By analyzing patient data, including symptoms, medical history, and demographic details, the goal is to assist healthcare providers in better utilizing resources and improving patient care outcomes.
 
 ## Dataset
 The dataset, sourced from Kaggle, contains real-time COVID-19 patient information with approximately 1 million rows and 21 columns, providing a comprehensive set of predictors for model development.
